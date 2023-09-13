@@ -1,7 +1,7 @@
 ### Todo
 
-- [ ] Reformat and Improve UI for control plane
-- [ ] Add current video playback in control plane  
+- [ ] Reformat and Improve UI experience for control plane
+- [ ] Allow for the current video playback in the control plane in sync with the detached video screen
 
 ### In Progress
 
